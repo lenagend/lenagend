@@ -4,8 +4,6 @@ import feedparser, datetime
 
 URL = "https://lenagend.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
-dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
 
 markdown_text = """## Hello, there!
 
@@ -17,14 +15,12 @@ I'm interested in web developing
 
 """  # list of blog posts will be appended here
 
-for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx >= MAX_POST:
-        break
-    else:
-        feed_date = feed['published_parsed']
-        markdown_text += (str(idx+1) + ". ")
-        markdown_text += f"[{feed['title']}]({feed['link']}) - {dt}<br/>\n"
- 
+lst = []
+
+for i in feed['entries']:
+    dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
+    markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+    print(i['link'], i['title'])
 
 markdown_text += """
 
