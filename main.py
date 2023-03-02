@@ -17,7 +17,7 @@ I'm interested in web developing
 
 lst = []
 
-for i in feed['entries']:
+for i in RSS_FEED['entries']:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
