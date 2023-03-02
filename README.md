@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, there!
 
-<!--
-**lenagend/lenagend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kwangmin Kim
 
-Here are some ideas to get you started:
+I'm interested in web developing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest Blog Posts
+
+[invalid source release: 17 오류 해결](https://lenagend.tistory.com/24) - Mar 02, 2023<br>
+[[자바8] 스트림이란?](https://lenagend.tistory.com/23) - Jan 26, 2023<br>
+[[자바8] 자바8 활용하기](https://lenagend.tistory.com/22) - Jan 26, 2023<br>
+[[자바8] 메서드 참조란?](https://lenagend.tistory.com/21) - Jan 26, 2023<br>
+[[자바8] 람다 사용법](https://lenagend.tistory.com/20) - Jan 26, 2023<br>
+[[실무DB] 오라클 지운 데이터 복구하는법](https://lenagend.tistory.com/19) - Jan 17, 2023<br>
+[[실무DB] 테이블 백업만드는 법, 테이블 복사하는 법 (오라클, 티베로)](https://lenagend.tistory.com/18) - Jan 17, 2023<br>
+[JJWT signWith deprecated 오류해결](https://lenagend.tistory.com/17) - Jan 17, 2023<br>
+[ORACLE GROUP BY 절 사용시 정렬](https://lenagend.tistory.com/16) - Aug 10, 2022<br>
+[JAVASCRIPT Promise](https://lenagend.tistory.com/15) - Aug 09, 2022<br>
+
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenagend&show_icons=true&theme=solarized-light)
