@@ -4,8 +4,9 @@ I'm Kwangmin Kim
 
 I'm interested in web developing
 
-## Latest Blog Posts
+## Blog Posts
 
+[using constructor NO_CONSTRUCTOR with arguments 오류해결](https://lenagend.tistory.com/25) - Mar 03, 2023<br>
 [invalid source release: 17 오류 해결](https://lenagend.tistory.com/24) - Mar 02, 2023<br>
 [[자바8] 스트림이란?](https://lenagend.tistory.com/23) - Jan 26, 2023<br>
 [[자바8] 자바8 활용하기](https://lenagend.tistory.com/22) - Jan 26, 2023<br>
@@ -15,7 +16,6 @@ I'm interested in web developing
 [[실무DB] 테이블 백업만드는 법, 테이블 복사하는 법 (오라클, 티베로)](https://lenagend.tistory.com/18) - Jan 17, 2023<br>
 [JJWT signWith deprecated 오류해결](https://lenagend.tistory.com/17) - Jan 17, 2023<br>
 [ORACLE GROUP BY 절 사용시 정렬](https://lenagend.tistory.com/16) - Aug 10, 2022<br>
-[JAVASCRIPT Promise](https://lenagend.tistory.com/15) - Aug 09, 2022<br>
 
 
 ## GitHub Stats
