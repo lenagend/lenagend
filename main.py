@@ -11,7 +11,7 @@ I'm Kwangmin Kim
 
 I'm interested in web developing
 
-## Latest Blog Posts
+## Blog Posts
 
 """  # list of blog posts will be appended here
 
