@@ -1,6 +1,5 @@
-
-
-import feedparser, datetime
+import feedparser
+import datetime
 
 URL = "https://lenagend.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
@@ -19,11 +18,13 @@ markdown_text = """## Hello, there!
 
 ## Blog Posts
 
-"""  # list of blog posts will be appended here
+"""
 
-lst = []
+# 게시물을 날짜별로 정렬
+entries = sorted(RSS_FEED['entries'], key=lambda x: datetime.datetime.strptime(x['published'], "%a, %d %b %Y %H:%M:%S %z"), reverse=True)
 
-for i in RSS_FEED['entries']:
+# 정렬된 게시물을 markdown_text에 추가
+for i in entries:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%b %d, %Y")
     markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
     print(i['link'], i['title'])
@@ -34,6 +35,6 @@ markdown_text += """
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenagend&show_icons=true&theme=solarized-light)
 """
 
-f = open("README.md",mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+# 결과를 README.md 파일에 쓰기
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(markdown_text)
