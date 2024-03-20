@@ -12,16 +12,16 @@
 
 ## Blog Posts
 
+[스프링 + 마이바티스 구조에서 동시 DB insert 실패 해결](https://lenagend.tistory.com/44) - Mar 20, 2024<br>
+[JPA로 페이징된 계층형 댓글 로직 구현에 대해](https://lenagend.tistory.com/43) - Mar 07, 2024<br>
+[Cannot access script base class 'org.gradle.kotlin.dsl.KotlinBuildScript' 해결](https://lenagend.tistory.com/42) - Nov 22, 2023<br>
+[3. UI/UX 설계](https://lenagend.tistory.com/41) - Oct 31, 2023<br>
+[2. 데이터베이스 설계](https://lenagend.tistory.com/40) - Oct 31, 2023<br>
+[1. 요구사항 분석](https://lenagend.tistory.com/39) - Oct 31, 2023<br>
+[0. 홈페이지를 제작하는 방법, 순서](https://lenagend.tistory.com/38) - Oct 30, 2023<br>
 [[GIT]커밋되지 않은 프로젝트에 이어서 작업하는 방법](https://lenagend.tistory.com/37) - Apr 14, 2023<br>
 [알고리즘 문제 해결 과정](https://lenagend.tistory.com/36) - Apr 12, 2023<br>
 [Mono<ResponseEntity<?>>와 ResponseEntity<Mono<?>>의 차이](https://lenagend.tistory.com/35) - Apr 05, 2023<br>
-[React axios란? 간단 요약](https://lenagend.tistory.com/34) - Mar 17, 2023<br>
-[스프링부트 프로젝트 구조 만들기 (패키지명) 간단 요약](https://lenagend.tistory.com/33) - Mar 17, 2023<br>
-[스프링부트 WebFlux + React.js 홈페이지 만들기 1 - 프로젝트 설정](https://lenagend.tistory.com/32) - Mar 17, 2023<br>
-[Jar파일과 War파일 차이 간단 요약](https://lenagend.tistory.com/31) - Mar 17, 2023<br>
-[Group, Artifact, Package name 간단 요약](https://lenagend.tistory.com/30) - Mar 17, 2023<br>
-[Gradle과 Maven 차이 간단 요약](https://lenagend.tistory.com/29) - Mar 17, 2023<br>
-[java8과 java9의 차이 간단 요약](https://lenagend.tistory.com/28) - Mar 17, 2023<br>
 
 
 ## GitHub Stats
