@@ -12,6 +12,7 @@
 
 ## Blog Posts
 
+[스프링부트 예외처리2 - @ControllerAdvice로 전역 예외처리](https://lenagend.tistory.com/50) - Mar 31, 2024<br>
 [스프링부트 예외처리1 @Validated](https://lenagend.tistory.com/49) - Mar 28, 2024<br>
 [스프링부트 404에러 해결](https://lenagend.tistory.com/48) - Mar 22, 2024<br>
 [could not prepare statement [Table ""]](https://lenagend.tistory.com/47) - Mar 22, 2024<br>
@@ -21,7 +22,6 @@
 [JPA로 페이징된 계층형 댓글 로직 구현에 대해](https://lenagend.tistory.com/43) - Mar 07, 2024<br>
 [Cannot access script base class 'org.gradle.kotlin.dsl.KotlinBuildScript' 해결](https://lenagend.tistory.com/42) - Nov 22, 2023<br>
 [3. UI/UX 설계](https://lenagend.tistory.com/41) - Oct 31, 2023<br>
-[2. 데이터베이스 설계](https://lenagend.tistory.com/40) - Oct 31, 2023<br>
 
 
 ## GitHub Stats
