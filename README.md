@@ -12,6 +12,7 @@
 
 ## Blog Posts
 
+[블로그 포스팅: OAuth2 + JWT 코드에서 /api/admin/** 경로 403 forbidden 문제 해결하기](https://lenagend.tistory.com/56) - Jun 24, 2024<br>
 [Nginx에서 React 앱의 404 오류 해결하기: 클라이언트 측 라우팅 문제와 Docker 설정의 중요성](https://lenagend.tistory.com/55) - Jun 21, 2024<br>
 [Spring Boot에서 Circular view path [favicon] 오류 해결하기](https://lenagend.tistory.com/54) - Jun 21, 2024<br>
 [docker-compose : Connection refused](https://lenagend.tistory.com/53) - Jun 17, 2024<br>
@@ -21,7 +22,6 @@
 [스프링부트 예외처리1 @Validated](https://lenagend.tistory.com/49) - Mar 28, 2024<br>
 [스프링부트 404에러 해결](https://lenagend.tistory.com/48) - Mar 22, 2024<br>
 [could not prepare statement [Table &quot;&quot;]](https://lenagend.tistory.com/47) - Mar 22, 2024<br>
-[Error executing DDL &quot;create table user&quot;](https://lenagend.tistory.com/46) - Mar 22, 2024<br>
 
 
 ## GitHub Stats
