@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [광진구청 홈페이지 프로젝트](https://www.gwangjin.go.kr/portal/main/main.do)
 
-- 🔭 I have worked on **미래에셋 파트너스클럽앱 https://partnersclub.co.kr/**
+- 🔭 I have worked on [미래에셋 파트너스클럽앱] (https://partnersclub.co.kr/)
 
 - 🔭 I have worked on [성북구청 홈페이지](https://www.sb.go.kr/)
 
@@ -33,3 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenagend&show_icons=true&locale=en&layout=compact" alt="lenagend" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenagend&show_icons=true&locale=en" alt="lenagend" /></p>
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
