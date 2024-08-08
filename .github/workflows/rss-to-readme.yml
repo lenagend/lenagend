@@ -1,0 +1,23 @@
+name: RSS to README
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # UTC 시간 기준으로 매일 오후 3시에 실행 (한국 시간 오전 12시)
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch RSS Feed
+        uses: luke-john/rss-to-readme@v1
+        with:
+          rss_feed: https://lenagend.tistory.com/rss
+          readme_location: ./README.md
+          block_start: '<!-- BLOG-POST-LIST:START -->'
+          block_end: '<!-- BLOG-POST-LIST:END -->'
