@@ -14,10 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Fetch RSS Feed
-        uses: luke-john/rss-to-readme@v1
+      - name: Pull in the latest blog posts
+        uses: crazy-max/ghaction-github-labeler@v3
         with:
-          rss_feed: https://lenagend.tistory.com/rss
-          readme_location: ./README.md
-          block_start: '<!-- BLOG-POST-LIST:START -->'
-          block_end: '<!-- BLOG-POST-LIST:END -->'
+          args: ./rss-to-readme.js
