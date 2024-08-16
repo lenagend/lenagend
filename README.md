@@ -23,7 +23,7 @@
 
 - ⚡ Hobby **I'm into Finess**
 
-<div align="center" style="border: 2px solid #0d6efd; padding: 10px; border-radius: 10px; background-color: #f8f9fa;">
+<div align="center" style="border: 2px solid #0d6efd; padding: 10px; border-radius: 10px; background-color: #f8f9fa; display: inline-block;">
   <h3>🚀 Check out my TIL (Today I Learned) Repository!</h3>
   <p>
     <a href="https://github.com/lenagend/TIL" style="text-decoration: none;">
