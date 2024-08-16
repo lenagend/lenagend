@@ -26,6 +26,7 @@
 <a href="https://github.com/lenagend/TIL">
   <img src="https://img.shields.io/badge/GitHub-TIL-blue?style=for-the-badge&logo=github" alt="TIL Repository" width="300">
 </a>
+
 > Click the badge to explore my daily learnings and insights!
 
 <h3 align="left">Languages and Tools:</h3>
