@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KWANGMIN KIM</h1>
-<h3 align="center">Started developing in January 2020 as a Java Developer.</h3>
+<h1 align="left">Hi 👋, I'm KWANGMIN KIM</h1>
+<h3 align="left">Started developing in January 2020 as a Java Developer.</h3>
 
 - 🔭 I’m currently working on [광진구청 홈페이지 프로젝트](https://www.gwangjin.go.kr/portal/main/main.do)
 
