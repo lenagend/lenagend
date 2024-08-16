@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm KWANGMIN KIM</h1>
 <h3 align="center">Started developing in January 2020 as a Java Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenagend&label=Profile%20views&color=0e75b6&style=flat" alt="lenagend" /> </p>
-
 - 🔭 I’m currently working on [광진구청 홈페이지 프로젝트](https://www.gwangjin.go.kr/portal/main/main.do)
 
 - 🔭 I have worked on [미래에셋 파트너스클럽앱](https://partnersclub.co.kr/)
@@ -25,8 +23,9 @@
 
 ## 🚀 Check out my TIL (Today I Learned) Repository!
 
-[![TIL Repository](https://img.shields.io/badge/GitHub-TIL-blue?style=for-the-badge&logo=github)](https://github.com/lenagend/TIL)
-
+<a href="https://github.com/lenagend/TIL">
+  <img src="https://img.shields.io/badge/GitHub-TIL-blue?style=for-the-badge&logo=github" alt="TIL Repository" width="300">
+</a>
 > Click the badge to explore my daily learnings and insights!
 
 <h3 align="left">Languages and Tools:</h3>
