@@ -1,39 +1,84 @@
-<h1 align="left">Hi 👋, I'm KWANGMIN KIM</h1>
-<h3 align="left">Started developing in January 2020 as a Java Developer.</h3>
+# Hi 👋, I'm Kwangmin Kim
 
-- 🔭 I’m currently working on [광진구청 홈페이지 프로젝트](https://www.gwangjin.go.kr/portal/main/main.do)
+**Java · Spring 기반의 백엔드 개발자이며, 실제 서비스와 앱을 여러 차례 출시한 경험이 있습니다.**
 
-- 🔭 I have worked on [미래에셋 파트너스클럽앱](https://partnersclub.co.kr/)
+• 2020년부터 Java · Spring 기반 백엔드 개발을 수행해왔습니다.  
+• 공공기관 웹 서비스 유지보수 및 기능 개발 경험이 있습니다  
+  (성북구청, 광진구청, 동작구청, 서울시립대 등).  
+• Flutter, React Native(Expo) 기반 개인 앱을 개발하고 실제 출시한 경험이 있습니다.
 
-- 🔭 I have worked on [성북구청 홈페이지](https://www.sb.go.kr/)
+---
 
-- 🔭 I have worked on [카카오페이증권 홈페이지](https://kakaopaysec.com/)
+## 🧩 Role & Responsibility
 
-- 👨‍💻 All of my projects are available at [https://harvest-clover-1dd.notion.site/0ad68f34fab447dc8ffb20cf2af1cf07](https://harvest-clover-1dd.notion.site/0ad68f34fab447dc8ffb20cf2af1cf07)
+공공기관 웹 서비스 운영 환경에서 **단독 개발자로** 근무하며  
+다음과 같은 역할을 전반적으로 수행했습니다.
 
-- 📝 I regularly write articles on [https://lenagend.tistory.com/](https://lenagend.tistory.com/)
+• 신규 기능 설계 및 개발  
+• 기존 코드 리팩토링 및 구조 개선  
+• 운영 이슈 대응 및 장애 처리  
+• 외부 시스템 연계(API, 인증, 데이터 연동 등)  
+• 운영 환경을 고려한 설계 및 배포
 
-- 🌱 I’m currently learning **system design, algorithms, and CS fundamentals.**
+---
 
-- 📫 How to reach me **lenagend@naver.com, +82 10-7159-2578**
+## 🚀 Featured Project – CMS Backend Architecture
 
-- 📄 Know about my experiences [https://m.saramin.co.kr/member/resume/view?res_idx=13997171](https://m.saramin.co.kr/member/resume/view?res_idx=13997171)
+현재 가장 집중하고 있는 프로젝트로,  
+**Java 21 · Spring Boot 3.4 · Thymeleaf 기반의 CMS 백엔드 아키텍처**를 설계하고 있습니다.
 
-- ⚡ Hobby **I'm into Finess**
+전자정부 프레임워크 기반 CMS를 장기간 유지보수·운영하며 반복적으로 겪었던  
+구조적 문제들을 해결하기 위해 시작한 프로젝트입니다.
 
-## 🚀 Check out my TIL (Today I Learned) Repository!
+이 프로젝트는 다음 원칙을 기준으로 설계되었습니다.
 
-<a href="https://github.com/lenagend/TIL">
-  <img src="https://img.shields.io/badge/GitHub-TIL-blue?style=for-the-badge&logo=github" alt="TIL Repository" width="300">
-</a>
+• 실제 운영과 유지보수를 전제로 한 구조  
+• 기능 추가 시 구조 붕괴가 발생하지 않는 설계  
+• 멀티테넌시, 보안, 인프라 요소를 초기부터 고려  
+• 특정 프레임워크 관성에 종속되지 않는 아키텍처
 
-> Click the badge to explore my daily learnings and insights!
+JPA Audit, 비동기 처리, 로깅, 보안, 멀티테넌시 등  
+CMS에 필요한 핵심 모듈을 직접 설계·구현하고 있으며,  
+모든 기능은 테스트 코드를 작성하며 검증하고 있습니다.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+> 📌 해당 프로젝트는 GitHub 상단에 pin 되어 있습니다.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenagend&show_icons=true&locale=en&layout=compact" alt="lenagend" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lenagend&show_icons=true&locale=en" alt="lenagend" /></p>
+## 📦 Other Projects
 
-<!--블로그시작--><p><strong>Latest Blog Posts:</strong></p><p><a href="https://lenagend.tistory.com/56">블로그 포스팅: OAuth2 + JWT 코드에서 /api/admin/** 경로 403 forbidden 문제 해결하기</a><br>Published on: Mon, 24 Jun 2024 14:46:20 +0900</p><p><a href="https://lenagend.tistory.com/55">Nginx에서 React 앱의 404 오류 해결하기: 클라이언트 측 라우팅 문제와 Docker 설정의 중요성</a><br>Published on: Fri, 21 Jun 2024 18:00:12 +0900</p><p><a href="https://lenagend.tistory.com/54">Spring Boot에서 Circular view path [favicon] 오류 해결하기</a><br>Published on: Fri, 21 Jun 2024 08:24:03 +0900</p><p><a href="https://lenagend.tistory.com/53">docker-compose : Connection refused</a><br>Published on: Mon, 17 Jun 2024 10:45:19 +0900</p><p><a href="https://lenagend.tistory.com/52">failed to solve: failed to read dockerfile: open /var/lib/docker/tmp/buildkit-mount277479487/Dockerfile: no such file or directory 해결</a><br>Published on: Mon, 17 Jun 2024 08:30:03 +0900</p><!--블로그끝-->
+### 운영 경험이 있는 웹 서비스
+- soseolWiki
+- everepl
+
+### 웹 / 앱 출시 경험 (현재 서비스 종료)
+- droptalk
+- toola
+- minchico-hub
+- safeshare
+- hairlog
+- kakaoInsight
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Java 21, Spring Boot 3.x, JPA, Spring Security
+
+**Frontend / App**
+- Thymeleaf, React  
+- Flutter, React Native (Expo)
+
+**Infra & Tools**
+- Docker, Linux, Git  
+- MySQL, MongoDB
+
+---
+
+## 🔗 Links
+
+- Blog (Tistory): https://lenagend.tistory.com  
+- Blog (Personal): https://toola.space  
+  - 직접 개발한 개인 블로그이며, 최근에는 해당 블로그를 중심으로 글을 작성하고 있습니다.
+- TIL: https://github.com/lenagend/TIL
