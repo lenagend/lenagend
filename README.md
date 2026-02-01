@@ -41,7 +41,7 @@ JPA Audit, 비동기 처리, 로깅, 보안, 멀티테넌시 등
 CMS에 필요한 핵심 모듈을 직접 설계·구현하고 있으며,  
 모든 기능은 테스트 코드를 작성하며 검증하고 있습니다.
 
-> https://github.com/lenagend/your-cms-repo
+> https://github.com/lenagend/cms
 
 ---
 
