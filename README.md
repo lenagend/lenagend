@@ -77,8 +77,6 @@ CMS에 필요한 핵심 모듈을 직접 설계·구현하고 있으며,
 ---
 
 ## 🔗 Links
-
-- Blog (Tistory): https://lenagend.tistory.com  
-- Blog (Personal): https://toola.space  
+- Blog (Personal): https://mingchico.com
   - 직접 개발한 개인 블로그이며, 최근에는 해당 블로그를 중심으로 글을 작성하고 있습니다.
-- TIL: https://github.com/lenagend/TIL
+- Blog (Tistory): https://lenagend.tistory.com  
